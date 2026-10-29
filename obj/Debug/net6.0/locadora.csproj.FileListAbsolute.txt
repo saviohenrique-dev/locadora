@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Desktop\locadora\bin\Debug\net6.0\locadora.exe
+C:\Users\ALUNO\Desktop\locadora\bin\Debug\net6.0\locadora.deps.json
+C:\Users\ALUNO\Desktop\locadora\bin\Debug\net6.0\locadora.runtimeconfig.json
+C:\Users\ALUNO\Desktop\locadora\bin\Debug\net6.0\locadora.dll
+C:\Users\ALUNO\Desktop\locadora\bin\Debug\net6.0\locadora.pdb
+C:\Users\ALUNO\Desktop\locadora\obj\Debug\net6.0\locadora.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\locadora\obj\Debug\net6.0\locadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\locadora\obj\Debug\net6.0\locadora.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\locadora\obj\Debug\net6.0\locadora.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\locadora\obj\Debug\net6.0\locadora.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\locadora\obj\Debug\net6.0\locadora.dll
+C:\Users\ALUNO\Desktop\locadora\obj\Debug\net6.0\refint\locadora.dll
+C:\Users\ALUNO\Desktop\locadora\obj\Debug\net6.0\locadora.pdb
+C:\Users\ALUNO\Desktop\locadora\obj\Debug\net6.0\locadora.genruntimeconfig.cache
+C:\Users\ALUNO\Desktop\locadora\obj\Debug\net6.0\ref\locadora.dll
